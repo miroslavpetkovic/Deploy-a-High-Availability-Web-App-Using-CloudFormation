@@ -9,7 +9,7 @@ Index.html /index.zip needs to be uploaded to correspondant S3 AWS account so th
 to create the Infrastructure please run
 
 ```
-./create.sh <StackName> final-project.yml final-project-parameters.json
+./create.sh Stack final-project.yml final-project-parameters.json
 
 ```
 
