@@ -84,7 +84,7 @@ to create the Infrastructure please run
 Where <StackName> is any stack you want to creaet then files on repo
   
   
-![alt text](  https://github.com/Ticlla/Deploy-a-High-Availability-Web-App-using-CloudFormation/blob/main/Screenshot%20from%20April%2018%2C%202021%206_20%20AM.png?raw=true)
+ ![diagram](./screenshots/Screenshot of Udagram Web Sites.png)
 
 you will have an DNS on output e.g
 
