@@ -84,7 +84,7 @@ to create the Infrastructure please run
 Where <StackName> is any stack you want to creaet then files on repo
   
   
- ![diagram](./screenshots/Screenshot of Udagram Web Sites.png)
+ ![diagram](./screenshots/Screenshot_of_Udagram_Web_Sites.png)
 
 you will have an DNS on output e.g
 
