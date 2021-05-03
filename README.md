@@ -69,7 +69,7 @@ Last thing: Remember to delete your CloudFormation stack when you're done to avo
 
 ### Architecture Diagram
 
-![diagram](.Images-of-result-deploy/VPC-Server Udagram.png)
+  ![venv](./Images-of-result-deploy/VPC-Server Udagram.png)
 
 The diagram is incomplet due to free-tier limitations of the software, I could not add more items into it.
 It shows only the most important concepts.
